@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CRUDclinica/static/css/main.b0dd2bb1.css",
+    "main.js": "/CRUDclinica/static/js/main.54cb24fe.js",
+    "static/media/logo1.png": "/CRUDclinica/static/media/logo1.fe3ddde5f6c53d9098dc.png",
+    "index.html": "/CRUDclinica/index.html",
+    "main.b0dd2bb1.css.map": "/CRUDclinica/static/css/main.b0dd2bb1.css.map",
+    "main.54cb24fe.js.map": "/CRUDclinica/static/js/main.54cb24fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0dd2bb1.css",
+    "static/js/main.54cb24fe.js"
+  ]
+}
