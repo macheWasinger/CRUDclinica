@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/CRUDclinica/static/css/main.816332a4.css",
-    "main.js": "/CRUDclinica/static/js/main.54cb24fe.js",
+    "main.js": "/CRUDclinica/static/js/main.b31e5b67.js",
     "static/media/logo1.png": "/CRUDclinica/static/media/logo1.fe3ddde5f6c53d9098dc.png",
     "index.html": "/CRUDclinica/index.html",
     "main.816332a4.css.map": "/CRUDclinica/static/css/main.816332a4.css.map",
-    "main.54cb24fe.js.map": "/CRUDclinica/static/js/main.54cb24fe.js.map"
+    "main.b31e5b67.js.map": "/CRUDclinica/static/js/main.b31e5b67.js.map"
   },
   "entrypoints": [
     "static/css/main.816332a4.css",
-    "static/js/main.54cb24fe.js"
+    "static/js/main.b31e5b67.js"
   ]
 }
